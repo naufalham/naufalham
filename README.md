@@ -21,12 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalham&layout=compact&theme=dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naufalham&show_icons=true&theme=dark&hide_border=false&count_private=true&title_color=58a6ff&text_color=ffffff&bg_color=0d1117&border_color=30363d&custom_title=My%20GitHub%20Statistics&include_all_commits=true" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalham&layout=compact&theme=dark&hide_border=false&title_color=58a6ff&text_color=ffffff&bg_color=0d1117&border_color=30363d&custom_title=My%20Programming%20Languages" height="180"/>
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=naufalham&theme=github-compact&hide_border=true" />
